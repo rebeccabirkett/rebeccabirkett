@@ -11,7 +11,7 @@
     I'm a Junior Web Developer based in Cheshire, UK! 🌳🌍
     <br />
     <br />
-    <a href="https://rebeccabirkett.github.io/portfolio/"><strong>🦌 Here's my Portfolio! »</strong></a>
+    <a href="https://kelseru.github.io/portfolio/"><strong>🦌 Here's my Portfolio! »</strong></a>
     <br />
   </p>
 </p>
