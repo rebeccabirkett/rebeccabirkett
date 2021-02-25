@@ -18,21 +18,21 @@
 
 
 
-I'm currently working through a Full Stack Developer bootcamp with [Code Nation](https://wearecodenation.com)! I'll be completing multiple projects using various stacks both individually and collaboratively! 👩🏻‍💻
+I'm currently working towards my Software Developer Apprenticeship with [Code Nation](https://wearecodenation.com)! I'll be completing multiple projects using various stacks both individually and collaboratively! 👩🏻‍💻
 
 ✨ Check out my pinned projects to see some of my favourites so far! ✨
 
 
 - 👩🏻‍💻 I’m currently working on ...
-A Full Stack Apprenticeship!
+A neat little hangman game to end morning scrums!
 - 🌱 I’m currently learning ...
-Lua, C#, Unity and Unreal! I want to make awesome games! 🎮
+On course-- Javascript, HTML and CSS. In my free time-- Lua, C#, Unity and Unreal! I want to make awesome games! 🎮
 - 💬 Ask me about ...
-My experiences with Code Nation and my dev journey so far! 😘
+My experiences with Code Nation and my journey into web development so far! 😘
 - 💌 How to reach me: ...
 You can reach me on [LinkedIn](https://www.linkedin.com/in/bex-birkett/), [@bex_birkett on Twitter](https://twitter.com/bex_birkett) or via email @ rebeccabirkett@outlook.com 
 - 🎋 Pronouns: ...
-Bex 👩🏻‍💻 | Bamboo Bex 🎋
+She/Her 👩🏻‍💻 | Bamboo Bex 🎋
 - 😙 Fun fact: ...
 I am a PADI certified Open Water Scuba Diver! My favourite dive so far was in Ko Tao, Thailand 🤿🐠
 
