@@ -35,5 +35,3 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/bex-birkett/), [@bex_
 She/Her 👩🏻‍💻 | Bamboo Bex 🎋
 - 😙 Fun fact: ...
 I am a PADI certified Open Water Scuba Diver! My favourite dive so far was in Ko Tao, Thailand 🤿🐠
-
--->
